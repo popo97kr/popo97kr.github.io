@@ -1,2 +1,2 @@
 # popo97kr.github.io
-jihye's github blog
+Jihye's github blog
