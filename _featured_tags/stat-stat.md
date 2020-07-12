@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Diary
-slug: diary
-category: diary
+title: Statistics
+slug: stat
+category: stat
 menu: false
 order: 1
 ---

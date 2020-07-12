@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Diary
-slug: diary
-category: diary
+title: Deep Learning
+slug: dl
+category: dl
 menu: false
 order: 1
 ---

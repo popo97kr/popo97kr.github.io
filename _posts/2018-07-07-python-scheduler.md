@@ -2,7 +2,7 @@
 layout: post
 title:  "Python Scheduler 만들기(APScheduler)"
 subtitle:   "Python Scheduler 만들기(APScheduler)"
-categories: development
+categories: programming
 tags: python
 comments: true
 ---

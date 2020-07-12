@@ -2,7 +2,7 @@
 layout: post
 title:  "Python Namedtuple Example 및 사용법"
 subtitle: "Python Named tuple Example 및 사용법"
-categories: development
+categories: programming
 tags: python
 comments: true
 ---
@@ -46,6 +46,7 @@ comments: true
 	- UserString
 	- 자세한 내용은 [Python Collections Document](https://docs.python.org/ko/3.7/library/collections.html) 참고
 - 공식 문서엔 이렇게 설명됨
+	
 	- Factory Function for Tuples with Named Fields
 - Dictionary와 비슷함
 - 키와 인덱스로 접근 가능
@@ -140,7 +141,7 @@ comments: true
 	
 	Node = namedtuple('Node', fileds, defaults=(None, ) * len(fields))
 	Print(Node())
-	```	
+	```
 
 - 혹은 새로 나온 `@dataclass`를 사용할 수 있음
 

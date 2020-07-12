@@ -2,15 +2,14 @@
 layout: post
 title:  "Github Profile Readme로 프로필 꾸미기"
 subtitle: "Github Profile Readme로 프로필 꾸미기"
-categories: development
-tags: tools
+categories: stat
+tags: stat
 comments: true
 ---
 
 - Github Profile을 이쁘게 디자인할 수 있는 방법에 대해 작성한 글입니다
 	- 키워드 : Desing Github Profile using README.md, Add a README to Github Profile
 - 생각보다 등록하는 방법이 간단해서, 가볍게 정리합니다
-
 
 ---
 
@@ -65,6 +64,7 @@ comments: true
 - 이제 자유롭게 Github Profile의 README를 수정하시면 됩니다!
 - 자신이 표현하고 싶은 내용을 담으면 되는데, 자신의 경력이나 호기심있는 부분을 올릴 수 있습니다
 - 관련 레포가 조금씩 생기고 있는데, 
+	
 	- 자신의 현재 상태를 알려주는 personal dashboard인 [Github Now](https://github.com/beyondcode/github-now) : 스포티파이와 연동하거나, 구글 캘린더와 연동 가능
 - 저는 제 Github에 방문한 사람 수가 궁금해서 [hits](https://hits.seeyoufarm.com/)를 붙여봤습니다
 	- 다른 hits도 있지만 이 hits는 [TODAY/TOTAL]을 표현해서, 더 자세한 정보를 알 수 있습니다
@@ -81,7 +81,7 @@ comments: true
 	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
 	</div>
-	```	
+	```
 
 - 이제 마치 싸이월드처럼 제 프로필에 방문한 사람 수를 알 수 있습니다!(싸이월드 추억..)
 

@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Diary
-slug: diary
-category: diary
+title: Machine Learning
+slug: ml
+category: ml
 menu: false
 order: 1
 ---

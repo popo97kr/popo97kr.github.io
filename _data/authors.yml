@@ -1,38 +1,38 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-zzsza:
-  name:              seongyun byeon
-  email:             snugyun01@gmail.com
+popo97kr:
+  name:              Jihye Kwon
+  email:             popo97kr@korea.ac.kr
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Machine Learning Engineer
+    Data Scientist
 
   # This photo will be used in the about section
   picture:
-    src:             /assets/img/me.jpeg
+    src:             /assets/img/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/me.jpeg
-      2x:            /assets/img/me.jpeg
+      1x:            /assets/img/me.jpg
+      2x:            /assets/img/me.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:        zzsza
+    #facebook:        zzsza
     # twitter:         <username>
     # google:          <number>
     # vk:              <username>
-    youtube:         UCYyAaezBGEVmXcnink6nY9Q
+    #youtube:        
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       data.scientist
+    instagram:      vousxlove
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -46,19 +46,19 @@ zzsza:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          zzsza
+    github:          popo97kr
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        seong-yun-byeon-8183a8113
+    linkedin:        jihye-kwon-33b404164
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:snugyun01@gmail.com
-    rss:             https://zzsza.github.io/feed.xml
+    email:           mailto:popo97kr@korea.ac.kr
+    rss:             https://popo97kr.github.io/feed.xml
 
 # Another author
 mdo:
