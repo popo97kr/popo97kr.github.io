@@ -7,7 +7,7 @@ tags: python
 comments: true
 ---
 
-- Python은 Multiparadigm Language이다.
+Python은 Multiparadigm Language이다.
 
 ---
 
