@@ -7,7 +7,7 @@ tags: python
 comments: true
 ---
 
-- Python = Multiparadigm Language
+- Python은 Multiparadigm Language이다.
 
 ---
 
@@ -37,4 +37,15 @@ comments: true
   - 동시에 여러번 실행 가능 (multiprocessing)
   - 디버깅에 용이
 
-![image-20200713153804923](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200713153804923.png)
+![image1](https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/paradigm1.jpg)
+
+
+
+
+
+
+
+
+
+
+
