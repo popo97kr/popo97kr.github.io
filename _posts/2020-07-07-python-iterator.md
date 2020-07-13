@@ -7,10 +7,6 @@ tags: python
 comments: true
 ---
 
-iterator/iterable
-
----
-
 
 ### Iterator/Iterable
 - **for 구문에 쓰일 수 있음**
