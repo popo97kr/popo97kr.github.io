@@ -37,7 +37,7 @@ comments: true
   - 동시에 여러번 실행 가능 (multiprocessing)
   - 디버깅에 용이
 
-![image1](https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/paradigm1.jpg)
+![image1](https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/paradigm1.jpg?raw=true)
 
 
 
