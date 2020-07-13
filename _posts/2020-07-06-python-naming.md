@@ -12,7 +12,6 @@ comments: 파이썬 변수 네이밍 규칙
   - 강제 규칙
   - 권장 규칙
 
-- Python은 Multiparadigm Language이다.
 
 ---
 

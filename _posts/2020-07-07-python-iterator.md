@@ -4,7 +4,7 @@ title:  "iterator"
 subtitle: "iterator"
 categories: programming
 tags: python
-comments: true
+comments: false
 ---
 
 
