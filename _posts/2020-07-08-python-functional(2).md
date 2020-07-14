@@ -104,5 +104,5 @@ y = f(4) #y=x+4가 됨
 - 딥러닝api개발자에겐 유용 - 가데이터 생성 시 유용(무수한 함수를 만들기때문)
 
 - 함수 안에 함수 정의하는 방법 두가지 : 1.Closure, 2. Decorator
-  - decorator에 관한 정보는 [여기](https://popo97kr.github.io/)
+  - decorator에 관한 정보는 [여기](https://popo97kr.github.io/programming/2020/07/08/python-functional(3)/)
 
