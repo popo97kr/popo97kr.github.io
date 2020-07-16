@@ -177,7 +177,7 @@ Decorator
   - timeit
   - typechecking
   - deprecation(warning만드는것)
-  - [memoization](https://popo97kr.github.io)
+  - [memoization](https://popo97kr.github.io/programming/2020/07/17/algorithm-memoization/)
   - checkpoint
   - 등등...
 
