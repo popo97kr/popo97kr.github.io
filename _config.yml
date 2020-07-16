@@ -47,7 +47,9 @@ google_fonts:        Lato
 # google_analytics:    추후필요시 설정
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    popo97kr
+disqus_shortname:    jihyeroun
+disqus_url: https://jihyeroun.disqus.com/
+disqus_id: jihyeroun
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; by Jihye Kwon'
