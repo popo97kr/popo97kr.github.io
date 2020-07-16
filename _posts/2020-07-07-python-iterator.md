@@ -7,8 +7,12 @@ tags: python
 comments: true
 ---
 
+Iterable과 Iterator에 대해 알아본다.
+
+---
 
 ### Iterator/Iterable
+
 - **for 구문에 쓰일 수 있음**
 
 - iterable = iterator가 될 수 있는 것들

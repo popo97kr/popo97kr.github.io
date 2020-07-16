@@ -7,10 +7,9 @@ tags: python
 comments: 파이썬 할당문의 종류
 ---
 
-- " □ = △ "의 종류
-- 파이썬 할당문 (Assignment)에 대해 알아보고자 한다
+- " □ = △ "의 여러가지 종류
+  - 할당문 (Assignment)에 대해 알아보고자 한다
 
-- Python은 Multiparadigm Language이다.
 
 ---
 

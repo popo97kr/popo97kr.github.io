@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  "파이썬 데이터타입2"
-subtitle: "파이썬 데이터타입2"
+title:  "파이썬 데이터타입(2)"
+subtitle: "파이썬 데이터타입(2)"
 categories: programming
 tags: python
 comments: true
 ---
 
-Python Data Types(2)
-
 - Collections
-  - defaultdict
-  - ordereddict
-  - namedtuple
+  - defaultdict, ordereddict, namedtuple
 
 ---
 

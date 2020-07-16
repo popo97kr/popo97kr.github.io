@@ -1,24 +1,15 @@
 ---
 layout: post
-title:  "파이썬 데이터타입"
-subtitle: "파이썬 데이터타입"
+title:  "파이썬 데이터타입(1)"
+subtitle: "파이썬 데이터타입(1)"
 categories: programming
 tags: python
 comments: true
 ---
 
-Python Data Types(1)
-
 - Numeric
-  - integer : 2/8/16진수
-  - float : 부동소수점
-  - complex, boolean
 - String
-  - string, bytes, bytearray
-- Sequence
-  - list, set, dictionary, string, tuple
-  - 분류1) homogeneous vs. heterogeneous
-  - 분류2) mutable vs. immutable
+- Sequence - list, set, dictionary, tuple, string
 
 ---
 
