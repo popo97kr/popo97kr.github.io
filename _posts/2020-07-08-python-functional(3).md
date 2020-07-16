@@ -165,12 +165,11 @@ Decorator
   #없다면 [1,2,3,4]로 나왔을것임
   ~~~
 
-- @property : discriptor
+  
 
-  - class 내 function 부를 때 괄호 칠 필요 없이 부를 수 ㅇ
-  - 추후 disciptor 부분에서 설명 예정
+- [@property]((https://popo97kr.github.io/programming/2020/07/09/python-object(3)/)
 
-- @staticmethod
+- [@classmethod / @staticmethod](https://popo97kr.github.io/programming/2020/07/09/python-object(2)/)
 
 
 
