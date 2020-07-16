@@ -8,6 +8,7 @@ comments: true
 ---
 
 - memoization
+  - code with & without decorator
 
 ---
 
