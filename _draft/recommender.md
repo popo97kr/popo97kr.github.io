@@ -12,17 +12,15 @@
 - 사용자의 행동 양식을 기반으로 추천
 - nearest neighbor based / latent factor based 로 구성
 
-#### [Nearest Neighbor(memory) based Collaborative Filtering(최근접 이웃 기반 협업 필터링)]
+#### [Nearest Neighbor(memory) based Collaborative Filtering (최근접 이웃 기반 협업 필터링)]
 
-- user-item 평점 행렬이 필요
+- user-item 평점 행렬에서 **사용자가 아직 평가하지 않은 아이템(빈칸)을 예측**
 
   ![image-20200718142952104](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200718142952104.png)
 
   pandas 에서 pivot table로 변환
 
   - 위의 문제 : sparsity 발생
-
-- 사용자가 아직 평가하지 않은 아이템(빈칸)을 예측
 
 - 두갈래 : 1. 사용자 기반, 2. 아이템 기반
 
@@ -51,3 +49,24 @@
 ​	아이템 기반보다는 사용자 기반을 더 정확도가 높음
 
 ​	=>명작의 경우 모든 평점이 높기 때문
+
+
+
+#### [Latent Factor Collaborative Filtering (잠재요인 협업 필터링)]
+
+- 가장 많이 사용
+- Matrix Factorization (행렬 분해) 기반
+  - 다차원 행렬을 SVD와 같은 차원 감소 기법을 통해 분해하는 과정에서 잠재 요인을 찾아내는 기법
+  - 장점 = **공간의 효율적인 활용**
+    - R(MxN)을 P(Mxk)와 Q.T(kxN)으로 분해해 parameters (M+N)xk개만 필요하기 때문
+
+- **user-item** matrix(R) --> **'user-latent'**matrix(P) /**'item-latent'** matrix (Q, Q.T로 많이 쓰임)
+
+<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200718150456220.png" alt="image-20200718150456220" style="zoom:33%;" />
+
+- latent factor는 뭐든 될수 있으며, 뽑아내고 본 뒤에 파악가능함
+- R(u, i) = u번째 유저가 i번째 아이템에 매긴/매길 평가
+
+![image-20200718151035744](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200718151035744.png)
+
+​		latent matrix 통해 매기지 않은 칸도 계산할 수 있다!
