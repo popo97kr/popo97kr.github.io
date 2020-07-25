@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Functional Paradigm(4)"
-subtitle: "Functional Paradigm(4)"
+title:  "Functional Paradigm(4) - Itertools"
+subtitle: "Functional Paradigm(4) - Itertools"
 categories: programming
 tags: python
 comments: true
@@ -9,8 +9,6 @@ comments: true
 ---
 
 Iterator Protocol, itertools, Lazy Evaluation
-
-Decorator
 
 ---
 

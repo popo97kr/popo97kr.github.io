@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "객체지향(4)"
-subtitle: "객체지향(4)"
+title:  "객체지향(4) - Composition, Descriptor"
+subtitle: "객체지향(4) - Composition, Descriptor"
 categories: programming
 tags: python
 comments: true

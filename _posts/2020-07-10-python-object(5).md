@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "객체지향(5)"
-subtitle: "객체지향(5)"
+title:  "객체지향(5) - Metaclass, Abstractclass"
+subtitle: "객체지향(5) - Metaclass, Abstractclass"
 categories: programming
 tags: python
 comments: true
@@ -45,7 +45,7 @@ class MySpecialClass(metaclass = MyType):
 
     - 인스턴스를 하나만 만들도록 제한
       	- 기존 인스턴스 존재 시 그 인스턴스 반환, 없으면 새 인스턴스 생성
-   	- 값을 전체 프로그래밍 내에서 동일하게 관리할 때 유용함
+      	- 값을 전체 프로그래밍 내에서 동일하게 관리할 때 유용함
 
    ~~~python
    class Singleton(type):
@@ -70,8 +70,9 @@ class MySpecialClass(metaclass = MyType):
 #### [추상클래스 (Abstractclass)]
 
 - 설계만 하고 실체는 구현하지 않은 클래스
-  - 자신을 물려받은 클래스가 직접 구현하도록 함
-
+  
+- 자신을 물려받은 클래스가 직접 구현하도록 함
+  
 - **NotImplemented type** : 나중 구현을 위해 지정해놓은 type
 
   - NotImplementedError = 내 기능을 구현해야 하는데 안해서 발생

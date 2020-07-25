@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "객체지향(3)"
-subtitle: "객체지향(3)"
+title:  "객체지향(3) - Inheritance"
+subtitle: "객체지향(3) - Inheritance"
 categories: programming
 tags: python
 comments: true
