@@ -158,8 +158,8 @@ b = bytearray(b"하이")
 
 - mutable : 자기 자신 변형이 가능
   - ex. bytearray,list,set,dictionary
-  - 자기변형 함수  example
-    - return값 None - append, remove, pd 함수 내 'inplace=True'
+  - 자기변형 함수 example
+    - <u>return값 None</u> - append, remove, pd 함수 내 'inplace=True'
     - return값 ㅇ - pop
 - immutable : 자기 자신 변형 불가능
   - ex. tuple
