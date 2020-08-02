@@ -73,21 +73,21 @@ comments: true
 
   1. <u>urllib.parse.urlparse</u> - breaks string into 6 parts
 
-     ![image-20200726221113024](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200726221113024.png)
+     <img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling8.png?raw=true" alt="image1" style="zoom:50%;" />
 
   2. <u>urllib.parse.quote /.quote_plus / .unquote</u> - 퍼센트코드 변환 관련
 
      quote vs. quote_plus = 띄어쓰기를 %20로 표현하거나 +로 표현해줌 => 사이트 별로 다르니 잘 확인해야 함
 
-     <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200726221610669.png" alt="image-20200726221610669" style="zoom: 33%;" />
+     <img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling9.png?raw=true" alt="image1" style="zoom:50%;" />
 
   3. <u>urllib.parse.urlencode</u> - 파라미터 주어질 때 key=value꼴로 변환
 
-     <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200726222105619.png" alt="image-20200726222105619" style="zoom: 33%;" />
+     <img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling10.png?raw=true" alt="image1" style="zoom:50%;" />
 
   4. <u>urllib.parse.urljoin</u> - URI + 파라미터를 합쳐 전체 주소 생성
 
-     <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200726222503491.png" alt="image-20200726222503491" style="zoom:33%;" />
+     <img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling11.png?raw=true" alt="image1" style="zoom:50%;" />
 
      
 
