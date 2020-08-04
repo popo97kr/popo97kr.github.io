@@ -7,10 +7,6 @@ tags: inforetrieval
 comments: true
 ---
 
-- 크롤링의 기본 개념을 알아보자.
-
-  
-
 - 스크래핑을 할 때 필요한 모듈 및 함수들을 알아보자.
 
   - urllib 라이브러리
