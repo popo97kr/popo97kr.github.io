@@ -7,12 +7,6 @@ tags: inforetrieval
 comments: true
 ---
 
-
-
-- 쿠키 입력법
-
-  
-  
 - 정규식 = 비정형데이터로부터 특정 텍스트를 탐색하기 위한 방법
 
 ---

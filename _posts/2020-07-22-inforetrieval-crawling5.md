@@ -7,11 +7,6 @@ tags: inforetrieval
 comments: true
 ---
 
-
-
-- 쿠키 입력법
-
-  
 - 크롤링은 웹상을 돌아다니며 각 사이트에 hyperlink된 소스들을 탐색하는 과정이다.
 
 ---
