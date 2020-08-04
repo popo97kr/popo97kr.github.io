@@ -4,7 +4,7 @@ title: Database
 slug: db
 menu: true
 submenu: false
-order: 5
+order: 7
 description: >
   Notes on Database
 ---

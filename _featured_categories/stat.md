@@ -4,7 +4,7 @@ title: Statistics
 slug: stat
 menu: true
 submenu: false
-order: 6
+order: 8
 description: >
   Notes on Statistics
 ---

@@ -4,7 +4,7 @@ title: 정보검색
 slug: inforetrieval
 menu: true
 submenu: false
-order: 8
+order: 10
 description: >
   Notes on Information Retrieval
 ---
