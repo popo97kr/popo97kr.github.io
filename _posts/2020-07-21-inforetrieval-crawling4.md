@@ -14,7 +14,6 @@ comments: true
 
 - 사이트 엑세스를 위해 로그인이 필요한 경우가 있다. 이럴 때 주로 **쿠키**를 사용한다.
 
-
 ---
 
 http://pythonscraping.com/pages/cookies/login.html
@@ -108,9 +107,9 @@ session.cookies에 집어넣는다.
 
 json파일의 전달방식, 파라미터에 맞게 session에 집어넣자.
 
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200731150131114.png" alt="image-20200731150131114" style="zoom: 33%;" />
+<img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling42.png?raw=true" alt="image1" style="zoom:50%;" />
 
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200731150152666.png" alt="image-20200731150152666" style="zoom:33%;" />
+<img src="https://github.com/popo97kr/popo97kr.github.io/blob/master/assets/img/crawling43.png?raw=true" alt="image1" style="zoom:50%;" />
 
 - 성공
 
